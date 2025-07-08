@@ -5,7 +5,7 @@
 //  Created by Tommy on 6/4/24.
 //
 
-import Foundation
+import UIKit
 
 @objc open class NotificationReceivedEvent: NSObject {
     @objc public var notification: BluxNotification

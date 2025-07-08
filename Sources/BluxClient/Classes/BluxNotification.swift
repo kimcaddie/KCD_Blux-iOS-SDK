@@ -5,7 +5,7 @@
 //  Created by Tommy on 5/30/24.
 //
 
-import Foundation
+import UIKit
 
 @objc open class BluxNotification: NSObject {
     public var id: String
