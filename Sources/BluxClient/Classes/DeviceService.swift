@@ -5,7 +5,7 @@
 //  Created by Tommy on 5/21/24.
 //
 
-import Foundation
+import UIKit
 
 enum DeviceService {
     /// Get system information from device

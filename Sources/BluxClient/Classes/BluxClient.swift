@@ -5,6 +5,8 @@
 //  Copyright © 2024 Blux. All rights reserved.
 //
 
+import UIKit
+
 // Used in setUserProperties, setCustomUserProperties
 struct PropertiesWrapper<T: Codable>: Codable {
     var properties: T

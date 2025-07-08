@@ -5,6 +5,7 @@
 //  Created by Tommy on 6/4/24.
 //
 
+import UIKit
 import UserNotifications
 
 @available(iOSApplicationExtension, unavailable)
